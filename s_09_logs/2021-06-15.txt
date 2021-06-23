@@ -1,0 +1,12 @@
+[2021-06-15 19:06:56] [DEBUG] execute setUp
+[2021-06-15 19:06:56] [ERROR] error日志
+[2021-06-15 19:06:56] [DEBUG] debug日志
+[2021-06-15 19:06:56] [INFO] info日志
+[2021-06-15 19:06:56] [WARNING] warning日志
+[2021-06-15 19:06:56] [DEBUG] execute tearDown
+[2021-06-15 19:11:09] [DEBUG] execute setUp
+[2021-06-15 19:11:09] [ERROR] error日志
+[2021-06-15 19:11:09] [DEBUG] debug日志
+[2021-06-15 19:11:09] [INFO] info日志
+[2021-06-15 19:11:09] [WARNING] warning日志
+[2021-06-15 19:11:09] [DEBUG] execute tearDown
