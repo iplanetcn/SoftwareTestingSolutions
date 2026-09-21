@@ -54,7 +54,7 @@ class TestSearchSettings(unittest.TestCase):
         # 单选-仅简体中文
         self.browser.find_element_by_xpath('//*[@id="se-settting-2"]/span[2]/label').click()
         sleep(1)
-        # 单选-全部语音
+        # 单选-全部
         self.browser.find_element_by_xpath('//*[@id="se-settting-2"]/span[1]/label').click()
         sleep(1)
 
